@@ -13,5 +13,6 @@ echo "I drank some $juice juice<br />";
 echo 'I drank some $juice juice<br />';
 ?>
 
+
 </body>
 </html>
